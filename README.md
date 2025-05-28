@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu Bisht 
 - 👀 I’m interested in Data analytics 
 - 🌱 I’m currently learning Data analyst 
-- 💞️ I’m looking to collaborate on Python,Power BI,SQL developers
+- 💞️ I’m looking to collaborate on Python, SQL, Power BI, Tableau
 - 😄 Pronouns: He/Him
 
 <!---
