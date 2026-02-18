@@ -1,6 +1,5 @@
-# HimanshuBisht
 
-Hi, I'm Himanshu Bisht! 👋
+## Hi, I'm Himanshu Bisht! 👋
 ### Data Analyst | Python, SQL & Power BI Specialist
 
 I transform complex datasets into actionable insights through advanced analytics and interactive visualizations.
